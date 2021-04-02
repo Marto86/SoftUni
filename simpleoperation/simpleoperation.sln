@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liveDemo", "liveDemo\liveDemo.csproj", "{0ECD5BD0-F8E2-4BAD-B670-F13A95B034A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromInchesToCentimeters", "FromInchesToCentimeters\FromInchesToCentimeters.csproj", "{6C404C83-704E-436A-AFA1-1DE25326192B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECD5BD0-F8E2-4BAD-B670-F13A95B034A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECD5BD0-F8E2-4BAD-B670-F13A95B034A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECD5BD0-F8E2-4BAD-B670-F13A95B034A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECD5BD0-F8E2-4BAD-B670-F13A95B034A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C404C83-704E-436A-AFA1-1DE25326192B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C404C83-704E-436A-AFA1-1DE25326192B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C404C83-704E-436A-AFA1-1DE25326192B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C404C83-704E-436A-AFA1-1DE25326192B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA56CFA4-3E71-4C89-B6B0-4A40BB17C361}
+	EndGlobalSection
+EndGlobal

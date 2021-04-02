@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cycles1Exersize", "cycles1Exersize\cycles1Exersize.csproj", "{31F79622-C2B1-426F-B044-879E2D77CA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Half Sum Element", "Half Sum Element\Half Sum Element.csproj", "{3112C640-CA9D-4698-A574-AA80AA85C7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F79622-C2B1-426F-B044-879E2D77CA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F79622-C2B1-426F-B044-879E2D77CA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F79622-C2B1-426F-B044-879E2D77CA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F79622-C2B1-426F-B044-879E2D77CA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3112C640-CA9D-4698-A574-AA80AA85C7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3112C640-CA9D-4698-A574-AA80AA85C7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3112C640-CA9D-4698-A574-AA80AA85C7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3112C640-CA9D-4698-A574-AA80AA85C7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F3DEBA-BF69-4084-939D-3FB65CEE72D7}
+	EndGlobalSection
+EndGlobal
